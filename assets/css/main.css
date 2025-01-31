@@ -18,10 +18,10 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	margin: 0;
+	margin: o;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 150%;
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -116,13 +116,13 @@ input, select, textarea {
 /* Type */
 
 	html {
-		font-size: 18pt;
+		font-size: 50pt;
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 14pt;
+				font-size: 18pt;
 			}
 
 		}
@@ -130,7 +130,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			html {
-				font-size: 12pt;
+				font-size: 14Spt;
 			}
 
 		}
@@ -138,7 +138,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 11pt;
+				font-size: 13pt;
 			}
 
 		}
@@ -146,7 +146,7 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			html {
-				font-size: 10pt;
+				font-size: 12pt;
 			}
 
 		}
